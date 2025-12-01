@@ -59,7 +59,7 @@ const storyData: StoryData = {
     },
 
     touristen: {
-        text: "'Touristen.' Du sagst es. Einfach so. Die Wildlings blinzeln. Ein paar kichern. Dann lachen alle. 'Die sind verrückt, nehmt sie mit' - sagt einer von ihnen. Na gut.",
+        text: "'Touristen.' Du sagst es. Einfach so - Die Wildlings blinzeln. Ein paar kichern. Dann lachen alle. 'Die sind verrückt, nehmt sie mit' - sagt einer von ihnen. Na gut.",
         choices: [
             { text: "Folgen", next: "plan" }
         ]
